@@ -3,6 +3,8 @@
 </div>
 
 ## About The Project✨
+Hangman is a classic word-guessing game that challenges your vocabulary skills. In this digital adaptation, you'll face the ultimate word puzzle challenge. Try to guess the secret word by selecting individual letters. Each incorrect guess brings you one step closer to the hangman's fate, so choose your letters wisely! The game features an interactive and user-friendly interface, making it an enjoyable and educational pastime for players of all ages.
+![hangman](https://github.com/VishvShah98/hangman/assets/70076769/e579ca07-3841-4bf7-884c-d0845c9a6ea7)
 
 
 ## Features✨
