@@ -16,7 +16,7 @@ I used React.js, TypeScript, Tailwind CSS and React Hot Toast technologies for t
 
 ## Installation✨
 ````
-git clone https://github.com/dilarauluturhan/hangman.git
+git clone https://github.com/VishvShah98/hangman.git
 ````
 ## Usage✨
 After cloning the project to your computer, you must open it in Visual Studio Code. You can open the project in `localhost:3000` by saying `npm run start`.
